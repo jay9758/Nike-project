@@ -1,12 +1,33 @@
-# React + Vite
+# 👟 AirKicks Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **Nike-inspired website landing page** showcasing stylish shoes with an interactive shoe selector!  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## Expanding the ESLint configuration
+This project features a clean, modern landing page inspired by Nike’s design style.  
+Users can click on different shoe options, and the main shoe image updates dynamically based on the selection.  
+The design is fully **responsive** and looks great on all devices — mobile, tablet, and desktop.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- **React** – for building the UI components  
+- **Tailwind CSS** – for utility-first responsive styling  
+- **Vercel** – for easy deployment and hosting  
+
+---
+
+## 🎯 Features
+
+- Dynamic shoe image changes on button/card click  
+- Smooth, interactive user experience  
+- Responsive layout with modern styling  
+
+---
+
+## 📱 Responsive Preview
+
+![responsive-preview](https://airkicks-landing-page.vercel.app/)  
