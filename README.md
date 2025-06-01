@@ -1,5 +1,7 @@
 # 👟 AirKicks Landing Page
 
+[![LIVE](https://img.shields.io/badge/live-online-brightgreen)](https://airkicks-landing-page.vercel.app/)
+
 A **Nike-inspired website landing page** showcasing stylish shoes with an interactive shoe selector!  
 
 ---
@@ -25,9 +27,3 @@ The design is fully **responsive** and looks great on all devices — mobile, ta
 - Dynamic shoe image changes on button/card click  
 - Smooth, interactive user experience  
 - Responsive layout with modern styling  
-
----
-
-## 📱 Responsive Preview
-
-![responsive-preview](https://airkicks-landing-page.vercel.app/)  
