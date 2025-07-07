@@ -1,6 +1,6 @@
 # 👟 AirKicks Landing Page
 
-[![LIVE](https://img.shields.io/badge/live-online-brightgreen)](https://airkicks-landing-page.vercel.app/)
+🌐 **Live Demo**: [airkicks-landing-page.vercel.app](https://airkicks-landing-page.vercel.app/)
 
 A **Nike-inspired website landing page** showcasing stylish shoes with an interactive shoe selector!  
 
